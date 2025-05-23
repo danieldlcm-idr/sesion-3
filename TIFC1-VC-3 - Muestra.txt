@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Este es el texto modificado por Ivan.
 =======
 Este es el texto modificado por Jonathan
@@ -7,3 +8,10 @@ Este es el texto modificado por Jonathan
 =======
 Este es el texto Modidificado por Javi.	
 >>>>>>> 6d51397ac5ce8db2e4ee785358ef6a7b0929223b
+=======
+Este NO es el texto original.
+=======
+Este es el texto Modidificado por Javi.	
+
+>>>>>>> 48b3c6f3acfdbb357dc193e81522ca7f3ca5c031
+>>>>>>> 8aa967df3c782cd45590365fe17db0c8233886ca
