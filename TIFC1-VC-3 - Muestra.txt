@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Este NO es el texto original.
+=======
+Este es el texto Modidificado por Javi.	
+
+>>>>>>> 48b3c6f3acfdbb357dc193e81522ca7f3ca5c031
